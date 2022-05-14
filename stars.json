@@ -7,9 +7,9 @@
   },
   {
     "full_name": "elastic/eland",
-    "stargazers_count": 364,
+    "stargazers_count": 368,
     "open_issues_count": 65,
-    "forks_count": 51
+    "forks_count": 52
   },
   {
     "full_name": "jsonresume/jsonresume-fake",
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "fabfuel/ecs-deploy",
-    "stargazers_count": 665,
-    "open_issues_count": 36,
-    "forks_count": 129
+    "stargazers_count": 667,
+    "open_issues_count": 37,
+    "forks_count": 130
   },
   {
     "full_name": "awslabs/aws-lambda-rust-runtime",
-    "stargazers_count": 2070,
-    "open_issues_count": 10,
-    "forks_count": 216
+    "stargazers_count": 2074,
+    "open_issues_count": 11,
+    "forks_count": 217
   },
   {
     "full_name": "mainframed/DC619",
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "spec-first/connexion",
-    "stargazers_count": 3991,
-    "open_issues_count": 163,
+    "stargazers_count": 3995,
+    "open_issues_count": 162,
     "forks_count": 705
   },
   {
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "pynamodb/PynamoDB",
-    "stargazers_count": 1902,
-    "open_issues_count": 243,
+    "stargazers_count": 1904,
+    "open_issues_count": 244,
     "forks_count": 395
   },
   {
@@ -111,17 +111,17 @@
     "full_name": "FHPythonUtils/PyTaintX",
     "stargazers_count": 2,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 0
   },
   {
     "full_name": "gophertuts/go-basics",
-    "stargazers_count": 215,
+    "stargazers_count": 218,
     "open_issues_count": 0,
     "forks_count": 71
   },
   {
     "full_name": "opencontrol/compliance-masonry",
-    "stargazers_count": 319,
+    "stargazers_count": 320,
     "open_issues_count": 40,
     "forks_count": 79
   },
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "adafruit/circuitpython",
-    "stargazers_count": 2965,
-    "open_issues_count": 539,
-    "forks_count": 779
+    "stargazers_count": 2971,
+    "open_issues_count": 526,
+    "forks_count": 778
   },
   {
     "full_name": "robincamille/nondescript",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "jendrikseipp/vulture",
-    "stargazers_count": 2096,
+    "stargazers_count": 2097,
     "open_issues_count": 23,
     "forks_count": 103
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "StackExchange/blackbox",
-    "stargazers_count": 6176,
-    "open_issues_count": 54,
-    "forks_count": 355
+    "stargazers_count": 6183,
+    "open_issues_count": 55,
+    "forks_count": 357
   },
   {
     "full_name": "gwu-libraries/sfm-ui",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 70812,
+    "stargazers_count": 70905,
     "open_issues_count": 258,
-    "forks_count": 3195
+    "forks_count": 3196
   }
 ]
