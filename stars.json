@@ -7,8 +7,8 @@
   },
   {
     "full_name": "elastic/eland",
-    "stargazers_count": 369,
-    "open_issues_count": 65,
+    "stargazers_count": 372,
+    "open_issues_count": 66,
     "forks_count": 52
   },
   {
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "fabfuel/ecs-deploy",
-    "stargazers_count": 667,
+    "stargazers_count": 668,
     "open_issues_count": 37,
-    "forks_count": 130
+    "forks_count": 131
   },
   {
     "full_name": "awslabs/aws-lambda-rust-runtime",
-    "stargazers_count": 2082,
+    "stargazers_count": 2086,
     "open_issues_count": 10,
     "forks_count": 217
   },
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "spec-first/connexion",
-    "stargazers_count": 3997,
-    "open_issues_count": 162,
+    "stargazers_count": 4006,
+    "open_issues_count": 165,
     "forks_count": 706
   },
   {
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "pynamodb/PynamoDB",
-    "stargazers_count": 1905,
+    "stargazers_count": 1907,
     "open_issues_count": 245,
-    "forks_count": 396
+    "forks_count": 397
   },
   {
     "full_name": "opensearch-project/opensearch-dsl-py",
     "stargazers_count": 16,
     "open_issues_count": 12,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "en9inerd/telebuilder",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "adafruit/circuitpython",
-    "stargazers_count": 2973,
-    "open_issues_count": 525,
-    "forks_count": 776
+    "stargazers_count": 2979,
+    "open_issues_count": 529,
+    "forks_count": 775
   },
   {
     "full_name": "robincamille/nondescript",
@@ -145,8 +145,8 @@
   },
   {
     "full_name": "jendrikseipp/vulture",
-    "stargazers_count": 2098,
-    "open_issues_count": 23,
+    "stargazers_count": 2104,
+    "open_issues_count": 22,
     "forks_count": 103
   },
   {
@@ -163,8 +163,8 @@
   },
   {
     "full_name": "StackExchange/blackbox",
-    "stargazers_count": 6222,
-    "open_issues_count": 56,
+    "stargazers_count": 6227,
+    "open_issues_count": 55,
     "forks_count": 357
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 70980,
-    "open_issues_count": 258,
+    "stargazers_count": 71051,
+    "open_issues_count": 259,
     "forks_count": 3197
   }
 ]
