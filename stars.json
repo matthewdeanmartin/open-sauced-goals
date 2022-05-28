@@ -7,7 +7,7 @@
   },
   {
     "full_name": "elastic/eland",
-    "stargazers_count": 373,
+    "stargazers_count": 377,
     "open_issues_count": 66,
     "forks_count": 52
   },
@@ -19,14 +19,14 @@
   },
   {
     "full_name": "fabfuel/ecs-deploy",
-    "stargazers_count": 669,
+    "stargazers_count": 671,
     "open_issues_count": 37,
     "forks_count": 131
   },
   {
     "full_name": "awslabs/aws-lambda-rust-runtime",
-    "stargazers_count": 2092,
-    "open_issues_count": 9,
+    "stargazers_count": 2091,
+    "open_issues_count": 8,
     "forks_count": 218
   },
   {
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "spec-first/connexion",
-    "stargazers_count": 4008,
+    "stargazers_count": 4012,
     "open_issues_count": 165,
     "forks_count": 707
   },
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "sonatype-nexus-community/jake",
-    "stargazers_count": 62,
+    "stargazers_count": 63,
     "open_issues_count": 18,
     "forks_count": 15
   },
@@ -73,20 +73,20 @@
   },
   {
     "full_name": "mcclure/NFTBlocker",
-    "stargazers_count": 633,
+    "stargazers_count": 634,
     "open_issues_count": 3,
     "forks_count": 10
   },
   {
     "full_name": "pynamodb/PynamoDB",
-    "stargazers_count": 1910,
-    "open_issues_count": 250,
-    "forks_count": 397
+    "stargazers_count": 1913,
+    "open_issues_count": 252,
+    "forks_count": 398
   },
   {
     "full_name": "opensearch-project/opensearch-dsl-py",
     "stargazers_count": 16,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "forks_count": 10
   },
   {
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "adafruit/circuitpython",
-    "stargazers_count": 2983,
+    "stargazers_count": 3004,
     "open_issues_count": 525,
     "forks_count": 777
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "jendrikseipp/vulture",
-    "stargazers_count": 2108,
-    "open_issues_count": 22,
-    "forks_count": 103
+    "stargazers_count": 2112,
+    "open_issues_count": 24,
+    "forks_count": 104
   },
   {
     "full_name": "jan-Lope/toki-sin",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "StackExchange/blackbox",
-    "stargazers_count": 6232,
-    "open_issues_count": 55,
-    "forks_count": 357
+    "stargazers_count": 6237,
+    "open_issues_count": 56,
+    "forks_count": 358
   },
   {
     "full_name": "gwu-libraries/sfm-ui",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 71190,
-    "open_issues_count": 262,
-    "forks_count": 3198
+    "stargazers_count": 71292,
+    "open_issues_count": 265,
+    "forks_count": 3204
   }
 ]
