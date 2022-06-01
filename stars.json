@@ -7,8 +7,8 @@
   },
   {
     "full_name": "elastic/eland",
-    "stargazers_count": 377,
-    "open_issues_count": 66,
+    "stargazers_count": 378,
+    "open_issues_count": 64,
     "forks_count": 52
   },
   {
@@ -19,14 +19,14 @@
   },
   {
     "full_name": "fabfuel/ecs-deploy",
-    "stargazers_count": 671,
+    "stargazers_count": 672,
     "open_issues_count": 37,
-    "forks_count": 131
+    "forks_count": 132
   },
   {
     "full_name": "awslabs/aws-lambda-rust-runtime",
-    "stargazers_count": 2091,
-    "open_issues_count": 8,
+    "stargazers_count": 2098,
+    "open_issues_count": 9,
     "forks_count": 218
   },
   {
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "spec-first/connexion",
-    "stargazers_count": 4012,
-    "open_issues_count": 165,
+    "stargazers_count": 4015,
+    "open_issues_count": 164,
     "forks_count": 707
   },
   {
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "sonatype-nexus-community/jake",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 18,
     "forks_count": 15
   },
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "pynamodb/PynamoDB",
-    "stargazers_count": 1913,
-    "open_issues_count": 252,
+    "stargazers_count": 1915,
+    "open_issues_count": 255,
     "forks_count": 398
   },
   {
     "full_name": "opensearch-project/opensearch-dsl-py",
     "stargazers_count": 16,
     "open_issues_count": 14,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "en9inerd/telebuilder",
@@ -133,8 +133,8 @@
   },
   {
     "full_name": "adafruit/circuitpython",
-    "stargazers_count": 3004,
-    "open_issues_count": 525,
+    "stargazers_count": 3007,
+    "open_issues_count": 530,
     "forks_count": 777
   },
   {
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "jendrikseipp/vulture",
-    "stargazers_count": 2112,
-    "open_issues_count": 24,
-    "forks_count": 104
+    "stargazers_count": 2119,
+    "open_issues_count": 22,
+    "forks_count": 105
   },
   {
     "full_name": "jan-Lope/toki-sin",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "StackExchange/blackbox",
-    "stargazers_count": 6237,
+    "stargazers_count": 6245,
     "open_issues_count": 56,
     "forks_count": 358
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 71292,
-    "open_issues_count": 265,
-    "forks_count": 3204
+    "stargazers_count": 71357,
+    "open_issues_count": 264,
+    "forks_count": 3206
   }
 ]
