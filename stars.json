@@ -7,7 +7,7 @@
   },
   {
     "full_name": "elastic/eland",
-    "stargazers_count": 393,
+    "stargazers_count": 395,
     "open_issues_count": 65,
     "forks_count": 52
   },
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "fabfuel/ecs-deploy",
-    "stargazers_count": 674,
+    "stargazers_count": 676,
     "open_issues_count": 38,
     "forks_count": 133
   },
@@ -27,7 +27,7 @@
     "full_name": "awslabs/aws-lambda-rust-runtime",
     "stargazers_count": 2110,
     "open_issues_count": 9,
-    "forks_count": 216
+    "forks_count": 218
   },
   {
     "full_name": "mainframed/DC619",
@@ -38,8 +38,8 @@
   {
     "full_name": "spec-first/connexion",
     "stargazers_count": 4021,
-    "open_issues_count": 166,
-    "forks_count": 708
+    "open_issues_count": 168,
+    "forks_count": 709
   },
   {
     "full_name": "vladislav-e-martin/terrain-map-viewer",
@@ -79,14 +79,14 @@
   },
   {
     "full_name": "pynamodb/PynamoDB",
-    "stargazers_count": 1929,
+    "stargazers_count": 1931,
     "open_issues_count": 255,
     "forks_count": 401
   },
   {
     "full_name": "opensearch-project/opensearch-dsl-py",
     "stargazers_count": 17,
-    "open_issues_count": 13,
+    "open_issues_count": 16,
     "forks_count": 13
   },
   {
@@ -134,8 +134,8 @@
   {
     "full_name": "adafruit/circuitpython",
     "stargazers_count": 3043,
-    "open_issues_count": 534,
-    "forks_count": 783
+    "open_issues_count": 532,
+    "forks_count": 785
   },
   {
     "full_name": "robincamille/nondescript",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "jendrikseipp/vulture",
-    "stargazers_count": 2131,
+    "stargazers_count": 2133,
     "open_issues_count": 20,
     "forks_count": 105
   },
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "StackExchange/blackbox",
-    "stargazers_count": 6255,
+    "stargazers_count": 6254,
     "open_issues_count": 56,
     "forks_count": 358
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 71654,
-    "open_issues_count": 261,
-    "forks_count": 3213
+    "stargazers_count": 71690,
+    "open_issues_count": 262,
+    "forks_count": 3215
   }
 ]
