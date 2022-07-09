@@ -7,8 +7,8 @@
   },
   {
     "full_name": "elastic/eland",
-    "stargazers_count": 400,
-    "open_issues_count": 66,
+    "stargazers_count": 404,
+    "open_issues_count": 67,
     "forks_count": 53
   },
   {
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "fabfuel/ecs-deploy",
-    "stargazers_count": 686,
+    "stargazers_count": 688,
     "open_issues_count": 38,
     "forks_count": 133
   },
   {
     "full_name": "awslabs/aws-lambda-rust-runtime",
-    "stargazers_count": 2136,
+    "stargazers_count": 2140,
     "open_issues_count": 8,
     "forks_count": 220
   },
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "spec-first/connexion",
-    "stargazers_count": 4026,
+    "stargazers_count": 4028,
     "open_issues_count": 161,
-    "forks_count": 708
+    "forks_count": 709
   },
   {
     "full_name": "vladislav-e-martin/terrain-map-viewer",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "sonatype-nexus-community/jake",
-    "stargazers_count": 65,
+    "stargazers_count": 66,
     "open_issues_count": 15,
-    "forks_count": 17
+    "forks_count": 18
   },
   {
     "full_name": "christiansandberg/pytest-reporter-html1",
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "pynamodb/PynamoDB",
-    "stargazers_count": 1941,
+    "stargazers_count": 1943,
     "open_issues_count": 258,
-    "forks_count": 402
+    "forks_count": 403
   },
   {
     "full_name": "opensearch-project/opensearch-dsl-py",
     "stargazers_count": 17,
     "open_issues_count": 12,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "en9inerd/telebuilder",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "adafruit/circuitpython",
-    "stargazers_count": 3063,
-    "open_issues_count": 550,
-    "forks_count": 790
+    "stargazers_count": 3072,
+    "open_issues_count": 553,
+    "forks_count": 791
   },
   {
     "full_name": "robincamille/nondescript",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "jendrikseipp/vulture",
-    "stargazers_count": 2147,
+    "stargazers_count": 2151,
     "open_issues_count": 20,
     "forks_count": 105
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "StackExchange/blackbox",
-    "stargazers_count": 6267,
+    "stargazers_count": 6269,
     "open_issues_count": 57,
-    "forks_count": 360
+    "forks_count": 359
   },
   {
     "full_name": "gwu-libraries/sfm-ui",
     "stargazers_count": 135,
-    "open_issues_count": 87,
+    "open_issues_count": 88,
     "forks_count": 25
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 71946,
+    "stargazers_count": 71990,
     "open_issues_count": 261,
-    "forks_count": 3226
+    "forks_count": 3229
   }
 ]
