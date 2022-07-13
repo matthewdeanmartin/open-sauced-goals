@@ -7,9 +7,9 @@
   },
   {
     "full_name": "elastic/eland",
-    "stargazers_count": 404,
-    "open_issues_count": 67,
-    "forks_count": 53
+    "stargazers_count": 407,
+    "open_issues_count": 69,
+    "forks_count": 54
   },
   {
     "full_name": "jsonresume/jsonresume-fake",
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "fabfuel/ecs-deploy",
-    "stargazers_count": 688,
+    "stargazers_count": 689,
     "open_issues_count": 38,
     "forks_count": 133
   },
   {
     "full_name": "awslabs/aws-lambda-rust-runtime",
-    "stargazers_count": 2140,
+    "stargazers_count": 2143,
     "open_issues_count": 8,
     "forks_count": 220
   },
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "spec-first/connexion",
-    "stargazers_count": 4028,
+    "stargazers_count": 4031,
     "open_issues_count": 161,
-    "forks_count": 709
+    "forks_count": 708
   },
   {
     "full_name": "vladislav-e-martin/terrain-map-viewer",
@@ -79,14 +79,14 @@
   },
   {
     "full_name": "pynamodb/PynamoDB",
-    "stargazers_count": 1943,
-    "open_issues_count": 258,
+    "stargazers_count": 1944,
+    "open_issues_count": 257,
     "forks_count": 403
   },
   {
     "full_name": "opensearch-project/opensearch-dsl-py",
-    "stargazers_count": 17,
-    "open_issues_count": 12,
+    "stargazers_count": 18,
+    "open_issues_count": 10,
     "forks_count": 14
   },
   {
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "adafruit/circuitpython",
-    "stargazers_count": 3072,
-    "open_issues_count": 553,
-    "forks_count": 791
+    "stargazers_count": 3081,
+    "open_issues_count": 551,
+    "forks_count": 793
   },
   {
     "full_name": "robincamille/nondescript",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "jendrikseipp/vulture",
-    "stargazers_count": 2151,
-    "open_issues_count": 20,
-    "forks_count": 105
+    "stargazers_count": 2157,
+    "open_issues_count": 21,
+    "forks_count": 106
   },
   {
     "full_name": "jan-Lope/toki-sin",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "StackExchange/blackbox",
-    "stargazers_count": 6269,
+    "stargazers_count": 6273,
     "open_issues_count": 57,
     "forks_count": 359
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 71990,
-    "open_issues_count": 261,
-    "forks_count": 3229
+    "stargazers_count": 72068,
+    "open_issues_count": 262,
+    "forks_count": 3233
   }
 ]
